@@ -8,7 +8,7 @@ Uses this [Syslog library](https://github.com/arcao/Syslog).
 
 ## Usage / Setup
 
-CLone this repo and modify the `main.cpp`:
+Clone this repo and modify the `main.cpp`:
 ```c
 #define SSID ""
 #define PASS ""
